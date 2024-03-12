@@ -48,4 +48,3 @@ const App = () => {
   );
 }
 export default App;
-// Компоненты Filters и Group остаются такими же как и в предыдущем примере
